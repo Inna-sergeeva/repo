@@ -2905,8 +2905,8 @@
 		<Metadata name="Document.Ведомость.Command.РаспечататьДоговоры.CommandModule" id="f775b1a0-2fca-4095-a36d-30877fb6d2d3.2" configVersion="3556270a6e71f748bcb8d0604c3db42300000000"/>
 		<Metadata name="Document.Ведомость.Form.ФормаГрупповогоИзмененияДоговоров" id="24af9f6c-dc9e-47a4-954c-a893986a69d6" configVersion="d6d86d025251e04988edb99730c46b5e00000000"/>
 		<Metadata name="Document.Ведомость.Form.ФормаГрупповогоИзмененияДоговоров.Form" id="24af9f6c-dc9e-47a4-954c-a893986a69d6.0" configVersion="9e890b189c7d724faf83f0e9dd13401500000000"/>
-		<Metadata name="Document.Ведомость.Form.ФормаДокумента" id="4e0e8216-0d34-443f-a20c-7f9b88708ff6" configVersion="b6a3d90356f5a9449b4be3da895c554700000000"/>
-		<Metadata name="Document.Ведомость.Form.ФормаДокумента.Form" id="4e0e8216-0d34-443f-a20c-7f9b88708ff6.0" configVersion="fb5a91b51a43874fa595e4433c0fd1c600000000"/>
+		<Metadata name="Document.Ведомость.Form.ФормаДокумента" id="4e0e8216-0d34-443f-a20c-7f9b88708ff6" configVersion="23f347acbdd298489c02cc602e186bcc00000000"/>
+		<Metadata name="Document.Ведомость.Form.ФормаДокумента.Form" id="4e0e8216-0d34-443f-a20c-7f9b88708ff6.0" configVersion="521df5f8d60f0c419b221d725ef8f21500000000"/>
 		<Metadata name="Document.Ведомость.Form.ФормаСписка" id="98d37da0-bf79-415f-bbe9-5e013a0da753" configVersion="98104e90cc7dc94792db7741d47cf53d00000000"/>
 		<Metadata name="Document.Ведомость.Form.ФормаСписка.Form" id="98d37da0-bf79-415f-bbe9-5e013a0da753.0" configVersion="9aab247c8057d249ad994e2730fefe3100000000"/>
 		<Metadata name="Document.Ведомость.ManagerModule" id="c08670a8-ed2f-4f88-86f8-488da914697a.2" configVersion="aa0f69fb3b5ede4e898bd1dc812e0d1600000000"/>
