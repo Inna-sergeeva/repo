@@ -295,9 +295,10 @@
 		<Metadata name="Catalog.ГруппыПользователей.ManagerModule" id="a2782760-dd4c-44d2-a785-814d6f610455.3" configVersion="f0ffe477b817b5468cbaae53b6fe05eb00000000"/>
 		<Metadata name="Catalog.ГруппыПользователей.ObjectModule" id="a2782760-dd4c-44d2-a785-814d6f610455.0" configVersion="b2a2049ea128604f9df6ff46dfa61e9d00000000"/>
 		<Metadata name="Catalog.ГруппыПользователей.Predefined" id="a2782760-dd4c-44d2-a785-814d6f610455.1c" configVersion="9b8de1fcdc016c4dbd19d077a79a93b400000000"/>
-		<Metadata name="Catalog.Договоры" id="fffad910-bea7-433a-b25d-b53301f4e6b6" configVersion="21710ee083e8ae4c93c55eaf433f339700000000">
+		<Metadata name="Catalog.Договоры" id="fffad910-bea7-433a-b25d-b53301f4e6b6" configVersion="c8bc46f427576744b559e06a5395e0ac00000000">
 			<Metadata name="Catalog.Договоры.Attribute.Активен" id="1061d4f9-51b6-4cdb-aa63-3127c2d797e3"/>
 			<Metadata name="Catalog.Договоры.Attribute.СтранаДоговора" id="492a8b95-192e-4453-875b-74a0eb1ec1b3"/>
+			<Metadata name="Catalog.Договоры.Attribute.УказатьСтрануДоговора" id="afc41fe4-d82e-4446-8398-b738a93e4b78"/>
 			<Metadata name="Catalog.Договоры.Attribute.ОкончаниеДействия" id="e34dd04e-ba52-47e6-8dbc-2eed989049ba"/>
 			<Metadata name="Catalog.Договоры.Attribute.НачалоДействия" id="e8934d93-fc6f-403c-8966-98db35a19402"/>
 		</Metadata>
@@ -305,6 +306,8 @@
 		<Metadata name="Catalog.Договоры.Form.ФормаВыбора.Form" id="18d64d75-39d2-4edb-9de3-29bcc8fa90a7.0" configVersion="ff4ace4d4c0859409842e41ecbc7d4b300000000"/>
 		<Metadata name="Catalog.Договоры.Form.ФормаСписка" id="f8b980e5-086c-4d5b-a410-dc75a0ce9dfc" configVersion="d19379fcf4c35148bd0228fe7d3f68bc00000000"/>
 		<Metadata name="Catalog.Договоры.Form.ФормаСписка.Form" id="f8b980e5-086c-4d5b-a410-dc75a0ce9dfc.0" configVersion="e44cf6e6e135a340a16443702d26c9f700000000"/>
+		<Metadata name="Catalog.Договоры.Form.ФормаЭлемента" id="b2952eec-4da4-4f49-8e9f-b3eef88da5b7" configVersion="21e3ad088bb71d47a85e18dd30b27c4800000000"/>
+		<Metadata name="Catalog.Договоры.Form.ФормаЭлемента.Form" id="b2952eec-4da4-4f49-8e9f-b3eef88da5b7.0" configVersion="9025c7d6cf3a704181965d4c2a01ac0800000000"/>
 		<Metadata name="Catalog.Договоры.ManagerModule" id="fffad910-bea7-433a-b25d-b53301f4e6b6.3" configVersion="bc7f1a7a8e18e5449473fc08b6f3c78400000000"/>
 		<Metadata name="Catalog.Договоры.ObjectModule" id="fffad910-bea7-433a-b25d-b53301f4e6b6.0" configVersion="739c1305cc1c6a4db78ac88dd73ae90700000000"/>
 		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки" id="92707138-5004-4378-8477-f909166d319d" configVersion="61143cc41b6b154bafdc9d7d37ac213500000000">
