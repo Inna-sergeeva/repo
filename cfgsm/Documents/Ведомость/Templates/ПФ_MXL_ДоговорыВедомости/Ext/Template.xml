@@ -1142,14 +1142,6 @@
 			<endColumn>-1</endColumn>
 		</area>
 	</namedItem>
-	<printSettings>
-		<topMargin>1000</topMargin>
-		<leftMargin>1000</leftMargin>
-		<bottomMargin>1000</bottomMargin>
-		<rightMargin>1000</rightMargin>
-		<headerSize>1000</headerSize>
-		<footerSize>1000</footerSize>
-	</printSettings>
 	<line width="1" gap="false">
 		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentCellLineType">None</v8ui:style>
 	</line>
