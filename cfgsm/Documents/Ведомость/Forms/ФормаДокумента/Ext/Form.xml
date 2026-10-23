@@ -30,6 +30,12 @@
 			<ContextMenu name="ДатаКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="6"/>
 		</InputField>
+		<InputField name="СтранаСделки" id="169">
+			<DataPath>Объект.СтранаСделки</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СтранаСделкиКонтекстноеМеню" id="170"/>
+			<ExtendedTooltip name="СтранаСделкиРасширеннаяПодсказка" id="171"/>
+		</InputField>
 		<InputField name="Символы" id="7">
 			<DataPath>Объект.Символы</DataPath>
 			<EditMode>EnterOnInput</EditMode>
@@ -72,6 +78,7 @@
 					<v8:content>Таблицы</v8:content>
 				</v8:item>
 			</ToolTip>
+			<PagesRepresentation>TabsOnTop</PagesRepresentation>
 			<ExtendedTooltip name="ТаблицыРасширеннаяПодсказка" id="33"/>
 			<ChildItems>
 				<Page name="РегистроваяТаблицаСтраница" id="34">
