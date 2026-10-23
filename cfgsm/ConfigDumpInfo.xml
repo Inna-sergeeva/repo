@@ -295,9 +295,8 @@
 		<Metadata name="Catalog.ГруппыПользователей.ManagerModule" id="a2782760-dd4c-44d2-a785-814d6f610455.3" configVersion="f0ffe477b817b5468cbaae53b6fe05eb00000000"/>
 		<Metadata name="Catalog.ГруппыПользователей.ObjectModule" id="a2782760-dd4c-44d2-a785-814d6f610455.0" configVersion="b2a2049ea128604f9df6ff46dfa61e9d00000000"/>
 		<Metadata name="Catalog.ГруппыПользователей.Predefined" id="a2782760-dd4c-44d2-a785-814d6f610455.1c" configVersion="9b8de1fcdc016c4dbd19d077a79a93b400000000"/>
-		<Metadata name="Catalog.Договоры" id="fffad910-bea7-433a-b25d-b53301f4e6b6" configVersion="21710ee083e8ae4c93c55eaf433f339700000000">
+		<Metadata name="Catalog.Договоры" id="fffad910-bea7-433a-b25d-b53301f4e6b6" configVersion="3ca61672a48b8e4285e59de0b4d08f1f00000000">
 			<Metadata name="Catalog.Договоры.Attribute.Активен" id="1061d4f9-51b6-4cdb-aa63-3127c2d797e3"/>
-			<Metadata name="Catalog.Договоры.Attribute.СтранаДоговора" id="492a8b95-192e-4453-875b-74a0eb1ec1b3"/>
 			<Metadata name="Catalog.Договоры.Attribute.ОкончаниеДействия" id="e34dd04e-ba52-47e6-8dbc-2eed989049ba"/>
 			<Metadata name="Catalog.Договоры.Attribute.НачалоДействия" id="e8934d93-fc6f-403c-8966-98db35a19402"/>
 		</Metadata>
@@ -2312,7 +2311,7 @@
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления.Template" id="88b879b7-1bb3-4478-b569-35bdb5c56939.0" configVersion="5c13fb080193de46bce785c09bfff9b700000000"/>
 		<Metadata name="CommonTemplate.СтруктураПодчиненности" id="7a62d031-c340-4b1e-90af-fff697a2e979" configVersion="4c500a58c5a41b4fa304c5c126b7d6d300000000"/>
 		<Metadata name="CommonTemplate.СтруктураПодчиненности.Template" id="7a62d031-c340-4b1e-90af-fff697a2e979.0" configVersion="3061cddae67e6d468bac519b8a2719be00000000"/>
-		<Metadata name="Configuration.РодионовИван_Этап7" id="f37491fa-90ba-4f2e-a91b-c7c48be1fe1a" configVersion="6a569a138916ea4596887da17df6b05000000000"/>
+		<Metadata name="Configuration.РодионовИван_Этап7" id="f37491fa-90ba-4f2e-a91b-c7c48be1fe1a" configVersion="99a80a3b703cdf4185c43c9a74ef3c1d00000000"/>
 		<Metadata name="Configuration.РодионовИван_Этап7.ClientApplicationInterface" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.b" configVersion="822aaf0bb5a6494b81bae0b4d3b9301e00000000"/>
 		<Metadata name="Configuration.РодионовИван_Этап7.CommandInterface" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.a" configVersion="607a1127f59a464ab952aa384c9f21a300000000"/>
 		<Metadata name="Configuration.РодионовИван_Этап7.ExternalConnectionModule" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.5" configVersion="143635d27136d14dbd5715da518689e300000000"/>
@@ -2320,7 +2319,7 @@
 		<Metadata name="Configuration.РодионовИван_Этап7.Logo" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.1" configVersion="2eb20338154b0d48bf4d37083a12c74a00000000"/>
 		<Metadata name="Configuration.РодионовИван_Этап7.ManagedApplicationModule" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.6" configVersion="5d456b015bd038409d3293fd4b89648500000000"/>
 		<Metadata name="Configuration.РодионовИван_Этап7.OrdinaryApplicationModule" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.0" configVersion="7cb5ab8383cdc14fb10737f151c51fe700000000"/>
-		<Metadata name="Configuration.РодионовИван_Этап7.ParentConfigurations" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.4" configVersion="8a902ac3fe1c394388bcff55395aafb500000000"/>
+		<Metadata name="Configuration.РодионовИван_Этап7.ParentConfigurations" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.4" configVersion="c3b80b64b759ec4a852472e1cad2a7c600000000"/>
 		<Metadata name="Configuration.РодионовИван_Этап7.SessionModule" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.7" configVersion="94fd2b16cf482f458ead69dd4ac6a29500000000"/>
 		<Metadata name="Configuration.РодионовИван_Этап7.Splash" id="4f45fd83-7690-4c26-9dcd-54bdf97d73f7.2" configVersion="25fd6e56acec6643b29d03fe3db7f09600000000"/>
 		<Metadata name="Constant.АдресПубликацииИнформационнойБазыВИнтернете" id="16392cf6-dd83-4df0-a54b-6efc29778a89" configVersion="883f43d4c8a6be4fa224cf9d163e917c00000000"/>
