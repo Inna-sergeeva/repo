@@ -2891,7 +2891,7 @@
 		<Metadata name="DefinedType.ПрисоединенныйФайл" id="bef6081e-f377-41d6-83a1-b0e218a3fb46" configVersion="7b76c9a3b854fe4b8318095ac82047ad00000000"/>
 		<Metadata name="DefinedType.ПрисоединенныйФайлОбъект" id="9b67bfd5-ef23-4205-b7ba-9466517e9999" configVersion="3daa29eaf7b4734eb2a3098ed946415700000000"/>
 		<Metadata name="DefinedType.ФизическоеЛицо" id="46b0a5b3-1fa7-44ff-a941-c6de47d36e77" configVersion="ca37596e45d84646b871973164369ab300000000"/>
-		<Metadata name="Document.Ведомость" id="c08670a8-ed2f-4f88-86f8-488da914697a" configVersion="7b85de7f45480a4b9b48266c36a5e0dd00000000">
+		<Metadata name="Document.Ведомость" id="c08670a8-ed2f-4f88-86f8-488da914697a" configVersion="ea7cdcf872ed3b439b1c96bb0dbce07b00000000">
 			<Metadata name="Document.Ведомость.Attribute.Комментарий" id="2a03bfaf-2818-4c27-8b98-39d36cb28087"/>
 			<Metadata name="Document.Ведомость.Attribute.СтатусДокумента" id="44c4b148-020e-4a07-a2bb-cc7f3c7f4d9b"/>
 			<Metadata name="Document.Ведомость.Attribute.Менеджер" id="4d12a913-8932-43a8-906f-80db0556e4e5"/>
@@ -2912,7 +2912,7 @@
 		<Metadata name="Document.Ведомость.Form.ФормаСписка" id="98d37da0-bf79-415f-bbe9-5e013a0da753" configVersion="98104e90cc7dc94792db7741d47cf53d00000000"/>
 		<Metadata name="Document.Ведомость.Form.ФормаСписка.Form" id="98d37da0-bf79-415f-bbe9-5e013a0da753.0" configVersion="9aab247c8057d249ad994e2730fefe3100000000"/>
 		<Metadata name="Document.Ведомость.ManagerModule" id="c08670a8-ed2f-4f88-86f8-488da914697a.2" configVersion="aa0f69fb3b5ede4e898bd1dc812e0d1600000000"/>
-		<Metadata name="Document.Ведомость.ObjectModule" id="c08670a8-ed2f-4f88-86f8-488da914697a.0" configVersion="ec5a3e49b45e2a48b9c56f98134081bf00000000"/>
+		<Metadata name="Document.Ведомость.ObjectModule" id="c08670a8-ed2f-4f88-86f8-488da914697a.0" configVersion="73bd802a9391b3459a129d41308fee2000000000"/>
 		<Metadata name="Document.Ведомость.Template.ПФ_MXL_ВложениеМенеджеру" id="8b26d03a-48d4-45a4-87da-4df05c529733" configVersion="a04db38c3930ea4fb5b1eafae27d696f00000000"/>
 		<Metadata name="Document.Ведомость.Template.ПФ_MXL_ВложениеМенеджеру.Template" id="8b26d03a-48d4-45a4-87da-4df05c529733.0" configVersion="ead0db7390ee264fb2750920c4b9b40800000000"/>
 		<Metadata name="Document.Ведомость.Template.ПФ_MXL_ДоговорыВедомости" id="ed39f6a7-3de4-49bc-b7c1-0370bf36cee4" configVersion="c5e85e6f924c0c4c84b53b09529fb1cb00000000"/>
