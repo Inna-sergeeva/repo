@@ -1314,6 +1314,7 @@
 			<Catalog>УчетныеЗаписиЭлектроннойПочты</Catalog>
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВедомостьПрисоединенныеФайлы</Catalog>
+			<Catalog>Контрагенты</Catalog>
 			<Document>Ведомость</Document>
 			<Enum>СтатусыВедомости</Enum>
 			<Enum>ВариантыПредставленияПериода</Enum>
